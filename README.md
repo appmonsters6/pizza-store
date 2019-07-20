@@ -1,1 +1,1 @@
-# our-frst-app
+# pizza-app
