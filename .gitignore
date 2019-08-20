@@ -29,3 +29,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+target/
+/.classpath
+/*.project
+/.settings
+/*.springBeans
+/*.bin
+/bin
